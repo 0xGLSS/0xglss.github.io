@@ -20,9 +20,16 @@ const articles = [
         date: "2024-03-25",
         category: "Windows Security",
         excerpt: "A deep dive into CLSID hijacking for Windows persistence, focusing on the Recycle Bin CLSID and how to exploit it...",
+    },
+    {
+        id: 4,
+        title: "A stealer parsing tool in Python and C++ for bug bounty",
+        date: "2023-01-28",
+        category: "Web Security",
+        excerpt: "A stealer parsing tool in Python and C++, which i use in bug bounty",
     }
 ];
-
+ 
 const projects = [
     {
         title: "JSSpy",
